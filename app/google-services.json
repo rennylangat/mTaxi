@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "468253405486",
+    "firebase_url": "https://mtaxi-bc8bb.firebaseio.com",
+    "project_id": "mtaxi-bc8bb",
+    "storage_bucket": "mtaxi-bc8bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468253405486:android:75e50c7137cdca1b",
+        "android_client_info": {
+          "package_name": "com.renny.user.mtaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468253405486-v5dsccm685v6l0qpr738cdh3bpt65cds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.renny.user.mtaxi",
+            "certificate_hash": "66705f5df04b862664b52fc2da2d90d387081e9a"
+          }
+        },
+        {
+          "client_id": "468253405486-ogpeeqpm1beubi9vn80lmucktpqs6eun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP7ZJy1OuMHPSz1Rjh0a7RmWEO3JYG1eE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468253405486-ogpeeqpm1beubi9vn80lmucktpqs6eun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
